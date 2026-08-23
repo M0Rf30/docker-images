@@ -8,10 +8,6 @@
 
   [GitHub Discussions](https://github.com/Guergeiro/docker-images/discussions)
 
-# Supported tags and respective `Dockerfile` links
-
-- [`2025.*.*`](./Dockerfile)
-
 # Quick reference (cont.)
 
 - **Where to file issues:**
