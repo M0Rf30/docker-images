@@ -30,6 +30,8 @@ Link: https://pnpm.io/docker
 - 8
 - 9
 - 10
+- 11
+- 12
 
 # Quick reference (cont.)
 
